@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-labels: ["bug", "feature"]
+labels: ["bug"]
 assignees:
   - gt-codes
   - darrylbrooks97
@@ -57,4 +57,3 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output/screenshot of error. This will be automatically formatted into code, so no need for backticks.
       render: shell
-
