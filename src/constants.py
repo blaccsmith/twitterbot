@@ -14,6 +14,6 @@ CONSTANTS = {
     'moderator_id' : environ['moderator_id'],
     "Discord_Token": environ['Discord_Token'],
     'guild_id' : environ['guild_id'],
-    intents: intents
+    'intents': intents
 }
 
